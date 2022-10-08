@@ -1,4 +1,4 @@
-### Olá! eu sou Manoel Lobo. </>
+### Olá! eu sou Manoel Lobo.
 ### Futuro Desenvolvedor de Software 👾
 #
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imanoellob)
@@ -18,5 +18,8 @@
 	<br/>
 	| Certificado no curso de introdução a HTML e CSS na instituição de ensino Escola DNC<p/>
 </div><br/>
+<div style="position: center">
+<p class="animation" style="color: white; position: center; animation-name: animacao; animation-duration: 6s; animation-iterating-counting: infinite;">Estudante de rede estadual profissionalizante<p/>
+<div/>
 
 
