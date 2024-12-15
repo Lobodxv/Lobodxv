@@ -14,7 +14,7 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<br/>
 	<br/>
-	<p style="font_weight: bold">| Atualmente cursando Técnico em Desenvolvimento de Sistemas
+	<p style="font_weight: bold">| Formando em Técnico em Análise e Desenvolvimento de Sistemas
 	<br/>
 	| Certificado no curso de introdução a HTML e CSS na instituição de ensino Escola DNC<p/>
 </div><br/>
