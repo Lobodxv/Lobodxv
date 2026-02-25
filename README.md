@@ -1,5 +1,5 @@
 ### Olá! eu sou Manoel Lobo.
-### Futuro Engenheiro de Software 👾
+### Graduando em Engenharia de Computação 👾
 #
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/imanoellob)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/Lbpriv)
@@ -14,7 +14,7 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 	<br/>
 	<br/>
-	<p style="font_weight: bold">| Formando em Técnico em Análise e Desenvolvimento de Sistemas
+	<p style="font_weight: bold">| Formado em Técnico em Análise e Desenvolvimento de Sistemas
 	<br/>
 	| Certificado no curso de introdução a HTML e CSS na instituição de ensino Escola DNC<p/>
 </div><br/>
