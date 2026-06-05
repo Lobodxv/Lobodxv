@@ -17,8 +17,5 @@
 	<p style="font_weight: bold">| Formado em Técnico em Análise e Desenvolvimento de Sistemas
 	<br/><p/>
 </div><br/>
-<div style="position: center">
-<p class="animation" style="color: white; position: center; animation-name: animacao; animation-duration: 6s; animation-iterating-counting: infinite;">Estudante de rede estadual profissionalizante<p/>
-<div/>
 
 
