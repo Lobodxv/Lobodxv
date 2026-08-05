@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently learning Python, Java, JavaSript, React, C, C++, HTML5, CSS3... <br>Goals: Improving every day.</p>
+<p align="left">I'm currently learning Python, Java, SQL, Assembly, JavaSript, TypeScript, React, C, C++, HTML5, CSS3... <br>Goals: Improving every day.</p>
 
 ###
 
